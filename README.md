@@ -1,7 +1,7 @@
 # LSRP Paycheck Farmer
 
 
-This python automation is created for the game San Andreas Multiplayer and in particular the Los Santos Roleplay community.
+This python automation was created for the game San Andreas Multiplayer and in particular the Los Santos Roleplay community.
 
 Problem statement: 
 Characters are given a "paycheck" for playing for a total of 20 minutes / hour, at approximately :00-:02 of every hour. 
