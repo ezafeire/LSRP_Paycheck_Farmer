@@ -1,7 +1,7 @@
 # LSRP Paycheck Farmer
 
 
-This python automation was created for the game San Andreas Multiplayer and in particular the Los Santos Roleplay community.
+This python bot/automation was created for the game San Andreas Multiplayer and in particular the Los Santos Roleplay community.
 
 ### Problem statement: 
 
