@@ -15,4 +15,3 @@ How this script bypasses all security measures and has been tested to farm over 
 3. While logged in, it moves completely randomly from a set of pre-defined moves.
 4. If the bot detects that an administrator has contacted the player to ask whether they're here or afk, it will respond with a random response, and then forcefully terminate the process to appear as though they lost internet connection.
 5. The game will automatically minimize itself after every random moveset in order to allow for the user to watch videos/movies and in general utilize their computer while the bot farms the paychecks.
-
