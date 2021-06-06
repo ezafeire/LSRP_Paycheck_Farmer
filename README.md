@@ -1,4 +1,4 @@
-#LSRP Paycheck Farmer
+# LSRP Paycheck Farmer
 
 
 This python automation is created for the game San Andreas Multiplayer and in particular the Los Santos Roleplay community.
