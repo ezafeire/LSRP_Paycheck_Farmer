@@ -3,7 +3,7 @@
 
 This python automation was created for the game San Andreas Multiplayer and in particular the Los Santos Roleplay community.
 
-** Problem statement: 
+## Problem statement: 
 
 * Characters are given a "paycheck" for playing for a total of 20 minutes / hour, at approximately :00-:02 of every hour. 
 * After completing ~1000 of those, your character automatically becomes a millionaire.
