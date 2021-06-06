@@ -11,9 +11,6 @@ import win32con
 
 class SAMPFARM(object):
 
-    ''' TO DO LIST:
-        Revise method: Log in at random times, for a total of 19 minutes, log in at 57-59 to cash
-    '''
     chatlog=r'C:/Users/Stratos/Documents/GTA San Andreas User Files/SAMP/chatlog.txt'
     game_folder=r"D:\Program Files (x86)\Rockstar Games\GTA San Andreas\samp.exe"
     password='&&&&&&&&'
